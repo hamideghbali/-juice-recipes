@@ -1,4 +1,4 @@
-# Home Rentals
+# Juice Recipes
 
 ![alt text](image.png)
 
